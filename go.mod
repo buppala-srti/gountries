@@ -1,4 +1,4 @@
-module github.com/pariz/gountries
+module github.com/securitiai/gountries
 
 go 1.17
 
