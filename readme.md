@@ -6,14 +6,14 @@ Inspired by the [countries](https://github.com/hexorx/countries) gem for ruby.
 
 Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data.
 
-All data is derived from the [pariz/countries](https://github.com/pariz/countries) repo.
+All data is derived from the [pariz/countries](https://github.com/securitiai/countries) repo.
 
 *This is currently a work in progress, so things may change. More stuff will be added*
 
 # Installation
 
 ```
-go get github.com/pariz/gountries
+go get github.com/securitiai/gountries
 ```
 
 # Examples
@@ -25,7 +25,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pariz/gountries"
+	"github.com/securitiai/gountries"
 )
 
 func main() {
@@ -53,7 +53,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pariz/gountries"
+	"github.com/securitiai/gountries"
 )
 
 func main() {
