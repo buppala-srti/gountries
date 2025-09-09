@@ -54,20 +54,6 @@
     maxlatitude: 21.417276
     latitude: 21.327034
     longitude: 103.91413
-- name: Ha Tay
-  names:
-  - Ha Tay
-  code: "15"
-  countryalpha2: VN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 108.04258
-    minlatitude: 14.209765
-    maxlongitude: 108.215675
-    maxlatitude: 14.38898
-    latitude: 14.29597
-    longitude: 108.11915
 - name: Ha Tinh
   names:
   - Ha Tinh
@@ -96,9 +82,9 @@
     maxlatitude: 21.719738
     latitude: 21.268442
     longitude: 105.20456
-- name: Da Nang, thanh pho
+- name: Da Nang
   names:
-  - Da Nang, thanh pho
+  - Da Nang
   code: "60"
   countryalpha2: VN
   coordinates:
@@ -110,9 +96,9 @@
     maxlatitude: 16.094145
     latitude: 16.054407
     longitude: 108.20216
-- name: Hai Phong, thanh pho
+- name: Hai Phong
   names:
-  - Hai Phong, thanh pho
+  - Hai Phong
   code: "62"
   countryalpha2: VN
   coordinates:
@@ -138,9 +124,9 @@
     maxlatitude: 22.04727
     latitude: 21.561377
     longitude: 105.87601
-- name: Thua Thien-Hue
+- name: Hue City
   names:
-  - Thua Thien-Hue
+  - Hue City
   code: "26"
   countryalpha2: VN
   coordinates:
@@ -180,9 +166,9 @@
     maxlatitude: 22.556343
     latitude: 21.804232
     longitude: 103.10765
-- name: Ho Chi Minh, thanh pho [Sai Gon]
+- name: Ho Chi Minh
   names:
-  - Ho Chi Minh, thanh pho [Sai Gon]
+  - Ho Chi Minh
   code: "65"
   countryalpha2: VN
   coordinates:
@@ -208,9 +194,9 @@
     maxlatitude: 19.999296
     latitude: 19.23425
     longitude: 104.92004
-- name: Dac Lac
+- name: Dak Lak
   names:
-  - Dac Lac
+  - Dak Lak
   code: "33"
   countryalpha2: VN
   coordinates:
@@ -320,6 +306,20 @@
     maxlatitude: 21.00616
     latitude: 20.852571
     longitude: 106.017
+- name: Quang Tri
+  names:
+    - Quang Tri
+  code: "25"
+  countryalpha2: VN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.55343
+    minlatitude: 16.302395
+    maxlongitude: 107.38833
+    maxlatitude: 17.16555
+    latitude: 16.794348
+    longitude: 106.96341
 - name: Quang Ninh
   names:
   - Quang Ninh
@@ -432,9 +432,9 @@
     maxlatitude: 10.966469
     latitude: 10.493799
     longitude: 105.68818
-- name: Ha Noi, thu do
+- name: Ha Noi
   names:
-  - Ha Noi, thu do
+  - Ha Noi
   code: "64"
   countryalpha2: VN
   coordinates:
