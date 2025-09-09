@@ -268,7 +268,7 @@ func TestFindCountryByNativeName(t *testing.T) {
 
 }
 
-func ExampleFindCountriesBorderingCountries() {
+func ExampleQuery_FindCountries() {
 
 	country := Country{}
 	//country.Alpha3 = "AUT"
@@ -299,7 +299,7 @@ func ExampleFindCountriesBorderingCountries() {
 
 }
 
-func ExampleFindCountriesBorderingCountries2() {
+func ExampleQuery_FindCountries_second() {
 
 	country := Country{
 		Borders: []string{
