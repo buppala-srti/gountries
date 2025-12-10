@@ -1,4 +1,4 @@
-- name: Abū Z̧aby [Abu Dhabi]
+- name: Abu Dhabi
   names:
   - أبو ظبي
   - Abu Zabi
@@ -17,7 +17,7 @@
     maxlatitude: 24.62133
     latitude: 24.466667
     longitude: 54.36667
-- name: Dubayy
+- name: Dubai
   names:
   - دبي
   - Dubai
@@ -32,7 +32,7 @@
     maxlatitude: 25.356306
     latitude: 25.20485
     longitude: 55.270782
-- name: Al Fujayrah
+- name: Fujairah
   names:
   - الفجيرة
   - Al Fujayrah
@@ -48,7 +48,7 @@
     maxlatitude: 25.667782
     latitude: 25.411076
     longitude: 56.248226
-- name: Ra's al Khaymah
+- name: Ras Al Khaimah
   names:
   - إمارة رأس الخيمة
   - Ras al-Khaimah
@@ -63,7 +63,7 @@
     maxlatitude: 25.91161
     latitude: 25.800694
     longitude: 55.9762
-- name: Ash Shariqah [Sharjah]
+- name: Sharjah
   names:
   - إمارة الشارقةّ
   - Ash Shariqah
@@ -78,7 +78,7 @@
     maxlatitude: 25.398827
     latitude: 25.3575
     longitude: 55.390835
-- name: Umm al Qaywayn
+- name: Umm Al Quwain
   names:
   - أمّ القيوين
   - Umm al-Quwain
@@ -93,7 +93,7 @@
     maxlatitude: 25.695477
     latitude: 25.520483
     longitude: 55.71339
-- name: '''Ajmān'
+- name: Ajman
   names:
   - -إمارة عجمانّ - Ujman
   code: AJ
